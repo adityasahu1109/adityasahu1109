@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditya Sahu and I'm a Software Dev, from India</h2>
+<h2 align="left">Hi 👋! My name is Aditya and I'm a Software Dev, from India</h2>
 
 ###
 
@@ -64,16 +64,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adityasahu1109/adityasahu1109/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adityasahu1109/adityasahu1109/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityasahu1109/adityasahu1109/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adityasahu1109.adityasahu1109&"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/adityasahu1109/adityasahu1109/output/snake.svg" alt="Snake animation" />
 
 ###
